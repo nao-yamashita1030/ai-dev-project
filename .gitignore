@@ -51,3 +51,6 @@ build/
 *.so
 *.dylib
 
+# Project specific files
+Docs/status.md
+
