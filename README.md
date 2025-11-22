@@ -86,6 +86,10 @@ cd ai-dev-project
 ├── .cursorrules              # AIコンサルタントの設定ファイル
 ├── .gitignore                # Git除外設定
 ├── README.md                  # このファイル
+├── rules/                     # ルール管理
+│   ├── README.md              # ルール一覧
+│   ├── commit-message.md      # コミットメッセージのルール
+│   └── phase-transition.md    # フェーズ移行時のルール
 └── Docs/                      # プロジェクトドキュメント
     ├── 01-requirements/       # 要件定義
     │   ├── draft/             # 検討中
@@ -165,8 +169,17 @@ cd ai-dev-project
 
 基盤リポジトリの改善提案やバグ報告は、IssueやPull Requestでお願いします。
 
+## ルール
+
+このリポジトリで使用する各種ルールについては、[rules/README.md](rules/README.md) を参照してください。
+
+主なルール：
+- [コミットメッセージのルール](rules/commit-message.md)
+- [フェーズ移行時のルール](rules/phase-transition.md)
+
 ## 関連ドキュメント
 
 - [Docs/README.md](Docs/README.md) - ドキュメント管理の詳細
 - [.cursorrules](.cursorrules) - AIコンサルタントの設定詳細
+- [rules/README.md](rules/README.md) - ルール一覧
 
