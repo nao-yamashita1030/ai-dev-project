@@ -29,3 +29,6 @@
 - [.cursorrules](../.cursorrules) - AIコンサルタントの設定ファイル（ルールの参照を含む）
 - [README.md](../README.md) - リポジトリの説明
 
+
+
+
