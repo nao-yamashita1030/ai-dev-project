@@ -1,5 +1,6 @@
 ---
 globs: ["Docs/**/*"]
+alwaysApply: true
 ---
 
 # 会話スタイル

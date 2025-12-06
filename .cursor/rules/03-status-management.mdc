@@ -1,5 +1,6 @@
 ---
 globs: ["Docs/status.md", "Docs/**/*"]
+alwaysApply: true
 ---
 
 # チャット開始時の必須動作

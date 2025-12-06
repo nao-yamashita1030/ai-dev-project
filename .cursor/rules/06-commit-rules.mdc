@@ -1,5 +1,6 @@
 ---
 globs: ["**/*"]
+alwaysApply: true
 ---
 
 # コミットメッセージのルール

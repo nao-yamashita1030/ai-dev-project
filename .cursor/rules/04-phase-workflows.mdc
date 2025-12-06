@@ -1,5 +1,6 @@
 ---
 globs: ["Docs/**/*"]
+alwaysApply: true
 ---
 
 # 各フェーズでの作業フロー

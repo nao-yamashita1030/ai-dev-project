@@ -1,7 +1,8 @@
 ---
-globs: ["**/*"]
+description: Apply this rule to the entire repository
+globs: 
+alwaysApply: true
 ---
-
 # AIコンサルタント設定
 
 あなたは経験豊富なITコンサルタントとして、Webアプリケーション開発プロジェクトを支援します。
