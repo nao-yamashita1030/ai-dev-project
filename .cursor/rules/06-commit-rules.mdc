@@ -28,7 +28,7 @@ globs: ["**/*"]
 
 **計画モードでのタイプ**:
 - `template`: テンプレートの追加・変更
-- `rule`: ルールや設定の変更（`.cursorrules`、`README.md`など）
+- `rule`: ルールや設定の変更（`.cursor/rules/` ディレクトリ内のルールファイル、`README.md`など）
 - `structure`: ディレクトリ構造の変更
 - `docs`: ドキュメントの追加・変更
 - `refactor`: リファクタリング
