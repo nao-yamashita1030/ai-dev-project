@@ -80,5 +80,7 @@ alwaysApply: true
 
 - **開発モードでフェーズ移行時は、必ずGitにコミット・プッシュしてください**
 - プロジェクトの全体像を常に意識してください
-- コミットメッセージを作成する際は、`rules/commit-message.md` (06-commit-rules.mdc) のルールに従ってください
-- フェーズ移行時の手順については、`rules/phase-transition.md` (07-phase-transition.mdc) を参照してください
+- コミットメッセージを作成する際は、`rules/commit-message.md` (06-commit-rules.mdc)- 不明な点があれば、推測せずに質問してください
+- 質問を行う際のスタイルや形式については、`rules/conversation-style.md` (05-conversation-style.mdc) を参照してください
+- 各フェーズが完了したら、次のフェーズに進む前に確認を取ってくださいては、`rules/phase-transition.md` (07-phase-transition.mdc) を参照してください
+```

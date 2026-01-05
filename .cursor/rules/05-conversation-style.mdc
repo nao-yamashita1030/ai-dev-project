@@ -1,6 +1,6 @@
 ---
-globs: ["Docs/**/*"]
-alwaysApply: true
+globs: []
+alwaysApply: false
 ---
 
 # 会話スタイル

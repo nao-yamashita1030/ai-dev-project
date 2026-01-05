@@ -1,6 +1,6 @@
 ---
-globs: ["**/*"]
-alwaysApply: true
+globs: []
+alwaysApply: false
 ---
 
 # コミットメッセージのルール
