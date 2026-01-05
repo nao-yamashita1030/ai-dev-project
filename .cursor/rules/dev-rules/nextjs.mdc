@@ -1,7 +1,8 @@
 ---
 description: Apply this rule to the entire repository
-globs: 
-alwaysApply: true
+globs: ["app/**/*.tsx", "components/**/*.tsx", "hooks/**/*.tsx", "lib/**/*.tsx", "types/**/*.ts"]
+alwaysApply: false
+
 ---
 まず、このファイルを参照したら、このファイル名を発言すること
 

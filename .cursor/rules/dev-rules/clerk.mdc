@@ -1,7 +1,7 @@
 ---
 description: 
-globs: *.tsx,*.ts
-alwaysApply: false
+globs: ["middleware.ts", "app/api/**/*.ts", "**/*auth*"]
+allowApply: false
 ---
 まず、このファイルを参照したら、このファイル名を発言すること
 
