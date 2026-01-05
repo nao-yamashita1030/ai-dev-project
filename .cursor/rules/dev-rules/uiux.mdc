@@ -1,8 +1,10 @@
-```
 ---
-description: 
+description: UI/UX design and implementation rules
+globs: ["**/*.css", "**/*.tsx", "tailwind.config.ts"]
+alwaysApply: false
+---
 
-### 重要度: 最高
+# UI/UX 設計・実装ルール
 
 - shadcn/ui をベースとしたコンポーネントの使用
 - **既存の UI は承認なしでの変更を禁止**
